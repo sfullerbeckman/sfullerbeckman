@@ -5,4 +5,4 @@ I’m Seth Fuller! (@sfullerbeckman), and I work at Beckman Coulter Life Science
 
 ### Current feature requests
 - [Submit a suggested change to a PR from the Github CLI](https://github.com/cli/cli/discussions/5904)
-- [Merge freeze on branch](https://github.com/orgs/github-community/discussions/16796)
+- [Merge freeze on branch](https://github.com/orgs/community/discussions/16796)
