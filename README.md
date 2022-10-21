@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="./thumbnail_66BB5492-FA4E-4585-869F-D91738C4AAD6.png" width="1290" height="500"/>
+  <img src="./thumbnail_66BB5492-FA4E-4585-869F-D91738C4AAD6.png" width="889" height="500"/>
 </div>
+
+
 
 <div id="header" align="center">
   <h1>Hi there 👋, my name is Seth!</h1>
