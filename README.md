@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/seth-fuller-ab4bb6230/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="https://stackoverflow.com/users/13160984/barley">
       <img src="https://img.shields.io/badge/Stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
     </a>
   </div>
