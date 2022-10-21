@@ -11,6 +11,4 @@ Skills: C# • JS/TS • WPF • Flutter • Golang
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sfullerbeckman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/seth-fuller-ab4bb6230/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13160984/barley)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sfullerbeckman&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sfullerbeckman)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sfullerbeckman&show_icons=true&count_private=true&theme=radical)  
