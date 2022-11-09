@@ -23,9 +23,8 @@ I’m Seth Fuller! (@sfullerbeckman), and I work at Beckman Coulter Life Science
 **Skills:** C# • JS/TS • WPF • Flutter • Golang
 
 ### Current feature requests
-[Submit a suggested change to a PR from the Github CLI](https://github.com/cli/cli/discussions/5904)
-  
-[Merge freeze on branch](https://github.com/orgs/community/discussions/16796)
+- [ ] [Submit a suggested change to a PR from the Github CLI](https://github.com/cli/cli/discussions/5904)
+- [x] [Merge freeze on branch](https://github.com/orgs/community/discussions/16796)  (implemented and released 🚀)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sfullerbeckman&show_icons=true&count_private=true&theme=radical)  
   
