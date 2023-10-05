@@ -24,5 +24,8 @@ I’m Seth Fuller! (@sfullerbeckman), and I work at Beckman Coulter Life Science
 - [ ] [GPT 3.x review feature in PRs](https://github.com/orgs/community/discussions/45636)
 - [ ] [Submit a suggested change to a PR from the Github CLI](https://github.com/cli/cli/discussions/5904)
 - [x] [Merge freeze on branch](https://github.com/orgs/community/discussions/16796)  (implemented and released 🚀)
-  
+
+
+### Learn a new tool
+- Arc Browser (a browser with a UI that improves productivity): https://arc.net/gift/ce47971c
 </div>
