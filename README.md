@@ -17,7 +17,7 @@
 
 I’m Seth Fuller! (@sfullerbeckman), and I work at Beckman Coulter Life Sciences. I’m interested in all things web tech. I especially like investigating new web frameworks such as Svelte and SvelteKit. Although not web tech, I’m also learning WPF and Go!
 
-**Skills:** C# • JS/TS • WPF • Flutter • Golang
+**Skills:** Flutter • C# • JS/TS • WPF • Golang
 
 ### Current feature requests
 - [ ] [View list of comments with filtering](https://github.com/orgs/community/discussions/55170)
