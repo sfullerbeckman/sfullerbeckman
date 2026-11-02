@@ -13,19 +13,8 @@
   <br/>
 </div>
 
-
+<img src="koi/koi.gif" width="256" alt="My koi" />
 
 I’m Seth Fuller! (@sfullerbeckman), and I work at Beckman Coulter Life Sciences. I’m interested in all things web tech. I especially like investigating new web frameworks such as Svelte and SvelteKit. Although not web tech, I’m also learning WPF and Go!
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
-### Current feature requests
-- [ ] [View list of comments with filtering](https://github.com/orgs/community/discussions/55170)
-- [ ] [GPT 3.x review feature in PRs](https://github.com/orgs/community/discussions/45636)
-- [ ] [Submit a suggested change to a PR from the Github CLI](https://github.com/cli/cli/discussions/5904)
-- [x] [Merge freeze on branch](https://github.com/orgs/community/discussions/16796)  (implemented and released 🚀)
-
-
-### Learn a new tool
-- Arc Browser (a browser with a UI that improves productivity): https://arc.net/gift/ce47971c
-</div>
